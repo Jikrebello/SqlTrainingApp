@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\C#\SqlTrainingApp\bin\Debug\SqlTrainingApp.exe.config
+E:\Visual Studio Projects\C#\SqlTrainingApp\bin\Debug\SqlTrainingApp.exe
+E:\Visual Studio Projects\C#\SqlTrainingApp\bin\Debug\SqlTrainingApp.pdb
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.Properties.Resources.resources
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.exe
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.pdb
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.CustomerForm.resources
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.PartsForm.resources
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.InvoiceForm.resources
+E:\Visual Studio Projects\C#\SqlTrainingApp\obj\Debug\SqlTrainingApp.AddInvoiceForm.resources
